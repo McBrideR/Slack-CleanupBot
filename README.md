@@ -1,2 +1,2 @@
 # Slack-CleanupBot
-A bot that can delete messages of any bot supplied messages.
+A bot that can delete messages any messages of other bots or itself when supplied an access token.
